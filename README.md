@@ -23,7 +23,7 @@ La méthodologique se divise en plusieurs étapes clés :
 
 3. **Analyse de Données** : Utilisation des techniques statistiques pour extraire des insights des données.
 
-4. **Visualisation des Résultats** : Création de visualisations interactives et de dashboards pour interpréter les résultats.
+4. **Visualisation des Résultats** : Création de visualisations interactives.
 
 ## Outils et Technologies
 
