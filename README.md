@@ -13,17 +13,6 @@ Cette étude de feedbacks clients, vise à extraire des insights destinées à o
 - Comprendre les préférences des clients selon différentes catégories de produits.
 - Identifier les tendances émergentes qui peuvent influencer la stratégie produit de Sephora.
 
-## Méthodologie
-
-La méthodologique se divise en plusieurs étapes clés :
-
-1. **Compréhension des Données** : Inclut une Analyse Exploratoire des Données (EDA) pour saisir la structure et les caractéristiques principales des datasets.
-
-2. **Nettoyage et Transformation des Données** : Processus pour garantir la qualité des données en éliminant les incohérences et en préparant les données pour l'analyse.
-
-3. **Analyse de Données** : Utilisation des techniques statistiques pour extraire des insights des données.
-
-4. **Visualisation des Résultats** : Création de visualisations interactives.
 
 ## Outils et Technologies
 
